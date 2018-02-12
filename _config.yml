@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jean-François Labbé
-email: labbe.jean.francois@gmail.com
+email:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter: '@jeffff35'
@@ -28,8 +28,9 @@ pic: profile.png
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
