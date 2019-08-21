@@ -11,4 +11,3 @@ gem "http"
 gem "dotenv"
 
 ruby '~> 2.6'
-

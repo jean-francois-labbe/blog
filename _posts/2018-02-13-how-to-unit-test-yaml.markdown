@@ -4,7 +4,7 @@ title:  "How to unit test YAML file"
 head_title: How to unit test YAML file [Tutorial]
 date: 2018-02-13T20:00:00+01:00
 summary: Imagine you have a huge YAML file, say 800 lines of docker-compose.yml for example. Then you want to be sure that all your services run with memory limit and that something will complain if a new one doesn't have them. I wanted to unit test a YAML file.
-last_modified_at: 2018-02-13T20:00:00+01:00
+last_modified_at: 2019-08-21T20:00:00+01:00
 preview_image: unittest.jpg
 thumb_image: unittest-thumb.jpg
 main_image_description: Unit testing

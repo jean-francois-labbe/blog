@@ -4,7 +4,7 @@ title:  "Rancher gotchas"
 head_title: Rancher gotchas [Experience]
 date: 2018-02-14T20:00:00+01:00
 summary: I've been using Rancher for one year now with Cattle orchestrator. From ci to review env to production, I run everything with Rancher. It provides great value and is stable. Though we experienced some issues that I'd like to share here.
-last_modified_at: 2018-02-14T20:00:00+01:00
+last_modified_at: 2019-08-21T20:00:00+01:00
 preview_image: rancher.jpg
 thumb_image: rancher-thumb.jpg
 main_image_description: Traps

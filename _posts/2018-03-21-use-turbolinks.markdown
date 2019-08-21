@@ -4,7 +4,7 @@ title:  "Quickly create mobile applications with Turbolinks"
 head_title: Quickly create mobile applications with Turbolinks [Tutorial]
 date: 2018-03-20T20:00:00+01:00
 summary: Imagine you are alone, or two working on a great project. You need to provide a web application + an Android app + an Ios app. What do you do? Do you create a web application using React, Vue then maybe use react-native to create mobile apps? React tends to add a lot of complexity and in the end, need experts to maintain it. I think there is a more productive way to do it.
-last_modified_at: 2018-03-20T20:00:00+01:00
+last_modified_at: 2019-08-21T20:00:00+01:00
 preview_image: turbolinks.jpg
 thumb_image: turbolinks-thumb.jpg
 main_image_description: Turbolinks is crazy fast

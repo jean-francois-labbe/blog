@@ -6,7 +6,7 @@ description: Jean-François Labbé - Full Stack web development, consultant, spe
 keywords: Ruby on Rails, JavaScript, full stack,
  consultant, web development, remote developer, startup, performance, optimization, blogger, blog, blogging, SEO
 baseurl:     ""
-url:         "https://www.jean-francois-labbe.com/"
+url:         "https://www.jean-francois-labbe.com"
 date_format: "%b %-d, %Y"
 structured_date_format: '%Y-%m-%d'
 header_pages:
