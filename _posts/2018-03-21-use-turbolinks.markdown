@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Quickly create mobile applications with Turbolinks"
+title:  "Quickly create mobile applications with RubyOnRails and Turbolinks"
 head_title: Quickly create mobile applications with Turbolinks [Tutorial]
 date: 2018-03-20T20:00:00+01:00
 summary: Imagine you are alone, or two working on a great project. You need to provide a web application + an Android app + an Ios app. What do you do? Do you create a web application using React, Vue then maybe use react-native to create mobile apps? React tends to add a lot of complexity and in the end, need experts to maintain it. I think there is a more productive way to do it.
@@ -8,7 +8,7 @@ last_modified_at: 2019-08-21T20:00:00+01:00
 preview_image: turbolinks.jpg
 thumb_image: turbolinks-thumb.jpg
 main_image_description: Turbolinks is crazy fast
-keywords: Ruby, development, javascript, mobile application, save money, startup
+keywords: Ruby, ruby on rails, rubyOnRails, android mobile application, development, javascript, mobile application, save money, startup
 ---
 
 Imagine you are alone, or two working on a great project. You need to provide a web application + an Android app + an Ios app. What do you do?
@@ -23,9 +23,9 @@ I think there is a more productive way to do it.
 This more productive way involves using [Turbolinks 5](https://github.com/turbolinks/turbolinks), its headline is: "Get the performance
 benefits of a single-page application without the added complexity of a client-side JavaScript framework.".
 
-Guess what by default Rails apps uses Turbolinks :)
+Guess what by default [RubyOnRails](https://rubyonrails.org/) apps uses Turbolinks :)
 
-This makes it super easy to create a web application (by the way rails is the most productive framework I know of) and mobile application.
+This makes it super easy to create a web application (by the way Rails is the most productive framework I know) and mobile application.
 To create a mobile application we will just need to add one or to file to a template project.
 
 Turbolinks is used to power Basecamp mobile apps as explained [here](https://m.signalvnoise.com/hybrid-development-is-how-we-give-our-teams-of-three-superpowers/) and [here](https://m.signalvnoise.com/basecamp-3-for-ios-hybrid-architecture/)
@@ -35,7 +35,7 @@ Turbolinks is used to power Basecamp mobile apps as explained [here](https://m.s
 The code source is available at
 [https://github.com/jean-francois-labbe/use-turbolinks.git](https://github.com/jean-francois-labbe/use-turbolinks.git)
 
-## First create a Rails app
+## First create a RubyOnRails app
 
 First, you will need to setup ruby, I would recommend you to use [ruby-install](https://github.com/postmodern/ruby-install) to install ruby.
 
